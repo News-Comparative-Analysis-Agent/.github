@@ -64,14 +64,13 @@
 
 ## 🛠️ 기술 스택 (Tech Stack)
 
-| Category | Stack | Version / Details |
+| Category | Tech Stack | Details |
 | :--- | :--- | :--- |
-| **Language & Framework** | ![Python](https://img.shields.io/badge/Python-3.11-3776AB?logo=python&logoColor=white) | Python 3.11 |
-| **LLM** | ![DeepInfra](https://img.shields.io/badge/DeepInfra-API-FF6B35?logoColor=white) | Qwen3-32B / Gemma4-31B (비교 실험) |
-| **Vector DB** | ![Qdrant](https://img.shields.io/badge/Qdrant-1.x-E91E63?logo=qdrant&logoColor=white) | 이슈 배경 이벤트 스트림 저장 |
-| **Embedding** | — | 한국어 임베딩 모델 |
-| **Infra** | ![Docker](https://img.shields.io/badge/Docker-Compose-2496ED?logo=docker&logoColor=white) | Docker Compose |
-
+| **Language & Framework** | ![Python](https://img.shields.io/badge/Python-3.11-3776AB?logo=python&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white) | Python 3.11, FastAPI 0.109 |
+| **LLM & Agent** | ![Qwen](https://img.shields.io/badge/Qwen3-8E75B2?logo=aliyun&logoColor=white) <br> ![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?logo=langchain&logoColor=white) | Qwen3-8B <br> LangGraph 기반 멀티 에이전트 파이프라인 |
+| **Database** | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white) | PostgreSQL (SQLAlchemy + Alembic ORM) |
+| **Data & NLP** | ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?logo=scikit-learn&logoColor=white) | scikit-learn (TF-IDF 코사인 유사도 기반 군집화) <br> KoNLPy, BeautifulSoup4 |
+| **Infra** | ![Docker](https://img.shields.io/badge/Docker-Compose-2496ED?logo=docker&logoColor=white) ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-0080FF?logo=digitalocean&logoColor=white) | Docker Compose <br> DigitalOcean Droplets & App Platform |
 <br>
 
 ## 📊 평가 결과 (Evaluation Results)
