@@ -42,7 +42,6 @@
       클러스터링 & 크롤링 고도화
     </td>
     <td align="center">
-      프론트엔드 파트<br/>
       UI/UX 담당
     </td>
   </tr>
