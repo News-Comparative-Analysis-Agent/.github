@@ -139,7 +139,7 @@ Judge Agent는 생성된 기사를 실제 미디어스 기사와 비교하여 �
 어휘적 정확성과 문맥적 유연성을 모두 확보하기 위해 기사 간의 유사도를 측정할 때 **TF-IDF 유사도**와 **SBERT 임베딩 유사도**를 가중 결합합니다.
 
 
-<img width="900" alt="Image" src="https://github.com/user-attachments/assets/3938d437-1da9-4a32-af2c-87908ba35171" />
+<img width="600" alt="Image" src="https://github.com/user-attachments/assets/3938d437-1da9-4a32-af2c-87908ba35171" />
 
 <br>
 
