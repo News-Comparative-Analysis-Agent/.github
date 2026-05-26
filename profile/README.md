@@ -12,6 +12,42 @@
 
 </div>
 
+# 👥 팀원 소개 (Team Members)
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/placeholder-younghо" width="100" height="100" style="border-radius:50%;" alt="박영호"/><br/>
+      <b>박영호</b><br/>
+      <sub>팀장</sub>
+    </td>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/placeholder-changsu" width="100" height="100" style="border-radius:50%;" alt="임창수"/><br/>
+      <b>임창수</b><br/>
+      <sub>팀원1: 백엔드 파트</sub>
+    </td>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/placeholder-jiwon" width="100" height="100" style="border-radius:50%;" alt="백지원"/><br/>
+      <b>백지원</b><br/>
+      <sub>팀원2: 프론트엔드 파트</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      인프라 구축<br/>
+      에이전트 개발<br/>
+      프롬프트 고도화
+    </td>
+    <td align="center">
+      에이전트 개발<br/>
+      클러스터링 & 크롤링 고도화
+    </td>
+    <td align="center">
+      프론트엔드 파트<br/>
+      UI/UX 담당
+    </td>
+  </tr>
+</table>
+
 # 📅 프로젝트 개요
 - **진행 기간**: 26.02 ~ 26.05
 - **연계 기업**: 미디어스 (미디어 비평 전문 매체)
